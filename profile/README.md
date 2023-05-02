@@ -1,8 +1,8 @@
 ## Hi there 👋
 ## Welcome to Mapmaker.nl
 
+![mapmaker_logo](https://user-images.githubusercontent.com/71013416/235667781-5f015188-a834-4409-be82-df9ca07680ed.png)
 
-![mapmaker_logo](https://user-images.githubusercontent.com/71013416/234362507-1ecd5c9b-ae42-4729-8572-094846007f28.png)
 
 
 [![📈 Autoscale](https://github.com/two-trick-pony-NL/mapmaker/actions/workflows/autoscale.yml/badge.svg?branch=master)](https://github.com/two-trick-pony-NL/mapmaker/actions/workflows/autoscale.yml)
