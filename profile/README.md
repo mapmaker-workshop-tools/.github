@@ -18,6 +18,12 @@
 Mapmaker is a workshop platform consisting of a unique cardset, a methodology and a online collaboration platform.
 This repository contains all the assets, instructions and the cardset designs. For more information visit: mapmaker.nl
 
+##TL:DR:
+- Our [platform](https://mapmaker.nl)
+- Our [Workshop material]( https://github.com/mapmaker-workshop-tools/physical-workshop-material)
+- Our [Status page](https://status.mapmaker.nl)
+- Development [environment](https://triage.mapmaker.nl)
+
 ### Learn more
 #### About our offering
 This page on Github is meant to share our workshop materials and document issues. If you want to learn more about our offering check out our  [Website](https://mapmaker.nl).
