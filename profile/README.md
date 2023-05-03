@@ -9,12 +9,6 @@
 ![Uptime](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fupptime%2Fupptime%2Fmaster%2Fapi%2Fgoogle%2Fuptime.json)
 ![banner](https://user-images.githubusercontent.com/71013416/235923153-98dfe26f-e4b1-4577-bed3-493384429f4b.png)
 
-
-
-<img width="1613" alt="Schermafbeelding 2023-04-25 om 19 31 58" src="https://user-images.githubusercontent.com/71013416/234356599-8273b213-1533-49d1-abf3-1c6fd0315caf.png">
-
-<img width="1305" alt="Schermafbeelding 2023-04-25 om 19 34 44" src="https://user-images.githubusercontent.com/71013416/234357045-882da973-53bc-4dfc-973b-b2f5fcc49ff2.png">
-
 # Mapmaker
 Mapmaker is a workshop platform consisting of a unique cardset, a methodology and a online collaboration platform.
 This repository contains all the assets, instructions and the cardset designs. For more information visit: mapmaker.nl
