@@ -18,10 +18,9 @@ This github page contains all the assets, instructions and the cardset designs. 
 - Our [Status page](https://status.mapmaker.nl) -- Is our server up or down
 
 ## Learn more
-### Getting started
 There are 3 ways on how you can use Mapmaker: 
 1. You can request a workshop through us, and we'll make sure you have everything you need to reach your goals. Drop us a line  [here](https://mapmaker.nl/contact) 
-2. You download our materials and host your own workshop, or run the online platform on your own servers. 
+2. You download our workshop materials and host your own workshop, or run the online platform on your own servers. 
 3. You're a experience trainer and would like to use our tools to use in your workshops. Let's get in [touch](https://mapmaker.nl/contact) and we'll help you get set up
 
 
