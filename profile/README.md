@@ -1,5 +1,8 @@
-![mapmaker_logo](https://user-images.githubusercontent.com/71013416/235667781-5f015188-a834-4409-be82-df9ca07680ed.png)
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/71013416/235667781-5f015188-a834-4409-be82-df9ca07680ed.png" alt="Logo" width="320" />
+  
+  
+  
 
 [![📈 Autoscale](https://github.com/two-trick-pony-NL/mapmaker/actions/workflows/autoscale.yml/badge.svg?branch=master)](https://github.com/two-trick-pony-NL/mapmaker/actions/workflows/autoscale.yml)
 [![🚀 Production deployment](https://github.com/two-trick-pony-NL/mapmaker/actions/workflows/productiondeploy.yml/badge.svg)](https://github.com/two-trick-pony-NL/mapmaker/actions/workflows/productiondeploy.yml)
@@ -7,7 +10,7 @@
 ![Response time](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fupptime%2Fupptime%2Fmaster%2Fapi%2Fgoogle%2Fresponse-time.json)
 ![Uptime](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fupptime%2Fupptime%2Fmaster%2Fapi%2Fgoogle%2Fuptime.json)
 ![banner](https://user-images.githubusercontent.com/71013416/235923153-98dfe26f-e4b1-4577-bed3-493384429f4b.png)
-
+</div>
 # Mapmaker
 Mapmaker is a workshop platform consisting of a unique cardset, a methodology and a online collaboration platform.
 This github page contains all the assets, instructions and the cardset designs. For more information visit: mapmaker.nl
